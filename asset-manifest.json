@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wedding-planner/static/css/main.1177d844.chunk.css",
+    "main.js": "/wedding-planner/static/js/main.06e18514.chunk.js",
+    "main.js.map": "/wedding-planner/static/js/main.06e18514.chunk.js.map",
+    "runtime-main.js": "/wedding-planner/static/js/runtime-main.c2433fc2.js",
+    "runtime-main.js.map": "/wedding-planner/static/js/runtime-main.c2433fc2.js.map",
+    "static/js/2.4c44ce10.chunk.js": "/wedding-planner/static/js/2.4c44ce10.chunk.js",
+    "static/js/2.4c44ce10.chunk.js.map": "/wedding-planner/static/js/2.4c44ce10.chunk.js.map",
+    "index.html": "/wedding-planner/index.html",
+    "static/css/main.1177d844.chunk.css.map": "/wedding-planner/static/css/main.1177d844.chunk.css.map",
+    "static/js/2.4c44ce10.chunk.js.LICENSE.txt": "/wedding-planner/static/js/2.4c44ce10.chunk.js.LICENSE.txt",
+    "static/media/Notes.scss": "/wedding-planner/static/media/background.895f3a73.jpg",
+    "static/media/HeroSection.scss": "/wedding-planner/static/media/banner.e657703c.jpg",
+    "static/media/Navbar.scss": "/wedding-planner/static/media/logo.c7167c99.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2433fc2.js",
+    "static/js/2.4c44ce10.chunk.js",
+    "static/css/main.1177d844.chunk.css",
+    "static/js/main.06e18514.chunk.js"
+  ]
+}
